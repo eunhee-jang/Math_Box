@@ -6,6 +6,6 @@ def add(a, b):
 def subtract(a, b):
 		return a-b
 
-def divide_premium(a, b):
+def divide_main(a, b):
     return a / b
 
